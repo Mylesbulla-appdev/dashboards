@@ -20,6 +20,10 @@
 .titled{
   font-size: 10em;
 }
+
+html,body{
+  height: 100%; width: 100%;
+}
 body{
   background-color: black !important;
 }
