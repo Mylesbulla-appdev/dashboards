@@ -1,8 +1,8 @@
 class ApplicationController < ActionController::Base
+    layout('wrapper.html.erb')
 
 
-
-  def dashboard_options
-    render( :template => '/d_templates/dashboard_home.html.erb')
+  def load_homepage
+    render( :template => 'index.html.erb')
   end
 end

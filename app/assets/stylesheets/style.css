@@ -1,0 +1,52 @@
+.form-row{
+  padding-top: 10px;
+}
+
+.btn{
+  background-color:  #E5B216 !important; 
+}
+.shadowed{
+  -moz-box-shadow:    3px 3px 3px 8px #ccc;
+  -webkit-box-shadow: 3px 3px 3x 8px #ccc;
+  box-shadow:         3px 3px 3px 8px #ccc;
+}
+.colored{
+  color: #E5B216;
+}
+.positioned{
+  text-align: center;
+}
+
+.titled{
+  font-size: 10em;
+}
+body{
+  background-color: black !important;
+}
+
+.glow {
+  color:#fff;
+  text-shadow:1px 1px 10px #fff, 1px 1px 10px #ccc;
+  font-size:2rem;
+  text-align:center;
+}
+
+.blackened{
+  color: #E5B216!important;
+
+}
+
+.blackened:hover{
+  color: white !important;
+}
+
+p{
+  margin-bottom: 0% !important;
+}
+
+.col-auto{
+  margin-right: 0% !important;
+}
+.mb-2{
+  margin-bottom: 0% !important;
+}
